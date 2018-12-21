@@ -1,3 +1,4 @@
+<?php
 $array = \range(0, 100);
 \shuffle($array);
 
